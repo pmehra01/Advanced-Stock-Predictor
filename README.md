@@ -77,14 +77,3 @@ This application is for **educational and informational** purposes only and shou
 ## 🙌 Credits
 
 Developed by [pmehra01](https://github.com/pmehra01)
-
-```
-
----
-
-### ✅ To Use:
-1. Save this content as a file named `README.md`.
-2. Add it to your repository root.
-3. Commit and push the file.
-
-```
